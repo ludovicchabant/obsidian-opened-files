@@ -1,0 +1,25 @@
+
+/* Capsule showing 'open' in the open file dialog.
+ * TODO: don't hard code the colors */
+.opened-file-capsule {
+	margin: 0 1em;
+	padding: 0.2em 1em;
+	font-size: 0.75em;
+	color: gray;
+	border: 1px solid #333;
+	border-style: solid;
+	border-radius: 1em;
+	background: #333;
+}
+
+/* Close button in the opened files pane. */
+.opened-files-pane .nav-file-close {
+	width: 100%;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.opened-files-pane .view-action>svg {
+	vertical-align: text-bottom;
+}
+

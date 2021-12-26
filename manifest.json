@@ -1,0 +1,10 @@
+{
+	"id": "opened-files",
+	"name": "Opened Files",
+	"version": "0.1.0",
+	"minAppVersion": "0.13.0",
+	"description": "Keeps files internally opened (including their undo/redo history) until explicitly closed",
+	"author": "Ludovic Chabant",
+	"authorUrl": "https://ludovic.chabant.com",
+	"isDesktopOnly": false
+}
